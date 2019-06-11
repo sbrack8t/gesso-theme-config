@@ -129,12 +129,12 @@ transitions:
     easeIn: "cubic-bezier(0.4, 0, 1, 1)"
     sharp: "cubic-bezier(0.4, 0, 0.6, 1)"
   duration: 
-    shortest: 150
-    short: 200
-    standard: 375
-    long: 400
-    intro: 270
-    outro: 195
+    shortest: 150ms
+    short: 200ms
+    standard: 375ms
+    long: 400ms
+    intro: 270ms
+    outro: 195ms
 z-index:
   nav: 1000
   drawer: 1200
